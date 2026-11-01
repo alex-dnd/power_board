@@ -49,6 +49,7 @@
 kicad/   исходники KiCad: схема, плата, проект
 gerber/  файлы для производства (Gerber + сверловка) и готовый архив power_board_gerber.zip
 docs/    спецификация (BOM) и инструкция по заказу в Резоните
+assembly/ файлы для заказа монтажа (BOM в Excel)
 ```
 
 - [docs/zakaz_plat_rezonit.md](docs/zakaz_plat_rezonit.md) — как заказать платы в Резоните
